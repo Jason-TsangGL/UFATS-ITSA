@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Tsang
+    given-names: Jason
+  - family-names: Gardea
+    given-names: Matei
+  - family-names: Fang
+    given-names: Noah
+  - family-names: Wong
+    given-names: Andy
+  - family-names: Toronto General Hospital Research Institute
+title: "UFATS-ITSA-RARE"
+version: 1.0.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.14030670
+date-released: 2021-11-03
